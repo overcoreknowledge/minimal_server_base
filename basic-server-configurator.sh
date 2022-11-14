@@ -18,8 +18,8 @@ FTP_CONF_DIR=/etc/vsftpd
 FTP_CONF_FILE=/etc/vsftpd/vsftpd.conf
 FTP_CONF_FILE_BACKUP=/etc/vsftpd/vsftpd.conf-backup
 
-WEB_BASE_USER=webapps
-WEB_BASE_PASSWD=webapps
+WEB_BASE_USER=SetNewUserForFTP
+WEB_BASE_PASSWD=SetNewPassword
 
 WEB_CONF_FILE_GITHUB_URL=https://github.com/overcoreknowledge/minimal_server_base/raw/main/httpd.conf
 FTP_CONF_FILE_GITHUB_URL=https://github.com/overcoreknowledge/minimal_server_base/raw/main/vsftpd.conf
